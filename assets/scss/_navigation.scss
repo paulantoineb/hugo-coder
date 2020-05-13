@@ -18,6 +18,9 @@
   .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase;
+    .logo {
+      vertical-align: middle;
+    }
   }
   .navigation-list {
     float: right;
